@@ -1,0 +1,12 @@
+DELIMITER //
+create trigger delete_order_product 
+
+AFTER DELETE ON orderlist FOR EACH ROW
+
+BEGIN
+
+DELETE FROM order_details WHERE id = OLD.order_id;
+
+end;
+
+//

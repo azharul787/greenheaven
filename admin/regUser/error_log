@@ -1,0 +1,74 @@
+[18-Feb-2018 02:31:21 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[18-Feb-2018 02:31:21 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[18-Feb-2018 02:31:21 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[18-Feb-2018 02:31:21 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[18-Feb-2018 02:39:08 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[18-Feb-2018 02:39:08 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[18-Feb-2018 02:39:08 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[18-Feb-2018 02:39:08 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[18-Feb-2018 13:19:55 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[18-Feb-2018 13:19:55 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[18-Feb-2018 13:19:55 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[18-Feb-2018 13:19:55 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[18-Feb-2018 21:24:18 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[18-Feb-2018 21:24:18 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[18-Feb-2018 21:24:18 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[18-Feb-2018 21:24:18 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[18-Feb-2018 23:07:23 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[18-Feb-2018 23:07:23 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[18-Feb-2018 23:07:23 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[18-Feb-2018 23:07:23 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[21-Feb-2018 21:46:18 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[21-Feb-2018 21:46:18 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[21-Feb-2018 21:46:18 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[21-Feb-2018 21:46:18 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[03-Mar-2018 00:14:00 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[03-Mar-2018 00:14:00 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[03-Mar-2018 00:14:00 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[03-Mar-2018 00:14:00 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[07-Mar-2018 11:54:45 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[07-Mar-2018 11:54:45 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[07-Mar-2018 11:54:45 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[07-Mar-2018 11:54:45 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[11-Apr-2018 06:43:16 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[11-Apr-2018 06:43:16 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[11-Apr-2018 06:43:16 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[11-Apr-2018 06:43:16 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[16-Apr-2018 10:07:04 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[16-Apr-2018 10:07:04 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[16-Apr-2018 10:07:04 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[16-Apr-2018 10:07:04 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[24-Apr-2018 00:40:57 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[24-Apr-2018 00:40:57 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[24-Apr-2018 00:40:57 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[24-Apr-2018 00:40:57 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[24-Apr-2018 01:06:17 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[24-Apr-2018 01:06:17 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[24-Apr-2018 01:06:17 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[24-Apr-2018 01:06:17 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[17-Jul-2018 05:29:22 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[17-Jul-2018 05:29:22 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[17-Jul-2018 05:29:22 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[17-Jul-2018 05:29:22 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[08-Aug-2018 00:43:32 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[08-Aug-2018 00:43:32 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[08-Aug-2018 00:43:32 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[08-Aug-2018 00:43:32 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[04-Sep-2018 04:10:53 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[04-Sep-2018 04:10:53 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[04-Sep-2018 04:10:53 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[04-Sep-2018 04:10:53 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[27-Oct-2018 05:58:42 America/New_York] PHP Notice:  Undefined index: search_itm in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 36
+[27-Oct-2018 05:58:42 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[27-Oct-2018 05:58:42 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[27-Oct-2018 05:58:42 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
+[27-Oct-2018 05:59:30 America/New_York] PHP Warning:  include(database_connection.php): failed to open stream: No such file or directory in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/check_email.php on line 3
+[27-Oct-2018 05:59:30 America/New_York] PHP Warning:  include(): Failed opening 'database_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/check_email.php on line 3
+[27-Oct-2018 05:59:30 America/New_York] PHP Notice:  Undefined variable: database in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/check_email.php on line 8
+[27-Oct-2018 05:59:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/check_email.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/check_email.php on line 8
+[27-Oct-2018 05:59:48 America/New_York] PHP Notice:  Undefined variable: total_records in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 112
+[27-Oct-2018 05:59:48 America/New_York] PHP Notice:  Undefined variable: limit in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 113
+[27-Oct-2018 05:59:48 America/New_York] PHP Notice:  Undefined variable: page in /home/wpsitcwy/greenheaven.wpsi32.com/admin/regUser/readRecords.php on line 115
